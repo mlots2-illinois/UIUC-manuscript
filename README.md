@@ -53,15 +53,16 @@ This template is built with flexibility and robustness in mind, offering a rich 
 5.  **Compile:** Use `pdflatex` (or your editor's "Build PDF" function) to compile the `.tex` files. You may need to run `pdflatex`, `bibtex` (if using a `.bib` file), and `pdflatex` again for cross-references and citations to resolve correctly.
 
 ## 📂 Project Structure
-├── manuscript.tex # The main manuscript file
-├── cover_letter.tex # A template for your cover letter
-├── header.png # Example header image for cover letter
-├── Cover_header.png # Example header image for manuscript title page
-├── Cover_footer.png # Example footer image for manuscript title page
-├── example-image-a.png # Placeholder image for Figure 1
-├── example-image-b.png # Placeholder image for Figure 2
-├── references.bib # Example BibTeX file (uncomment in manuscript.tex to use)
-└── README.md # This file
+.
+├── manuscript.tex          # The main manuscript file
+├── cover_letter.tex        # A template for your cover letter
+├── header.png              # Example header image for cover letter
+├── Cover_header.png        # Example header image for manuscript title page
+├── Cover_footer.png        # Example footer image for manuscript title page
+├── example-image-a.png     # Placeholder image for Figure 1
+├── example-image-b.png     # Placeholder image for Figure 2
+├── references.bib          # Example BibTeX file (uncomment in manuscript.tex to use)
+└── README.md               # This file
 
 
 ## ⚠️ Important Notes
